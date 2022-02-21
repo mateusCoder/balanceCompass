@@ -27,7 +27,6 @@ public class BalanceApplication {
 			i++;
 		}
 		
-
 		for(int j = 0; j < employees.size(); j++) {	
 			System.out.println("\n");
 			System.out.println("Funcionário: " + employees.get(j).getName());
